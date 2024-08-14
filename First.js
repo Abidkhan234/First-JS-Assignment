@@ -92,5 +92,5 @@ if(Percentage<=100 && Percentage >=90){
 }else if(Percentage<=59 && Percentage >=50){
     alert("Great You Got D");
 }else if(Percentage>=0 && Percentage <=49){
-    alert("You are Fail go work as a labour");
+    alert("You are Fail");
 }
